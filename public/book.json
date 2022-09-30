@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
         "subject": "Web Development",
         "describe": "A well-designed website is essential for reaching a larger audience and generating more leads or customers.",
         "time": 60,
