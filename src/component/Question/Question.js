@@ -49,7 +49,7 @@ const Question = () => {
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-
+                            It runs when the component is mounted and when it is re-rendered while a dependency of the useEffect has changed. This is powerful, but it is easy to omit dependencies and create bugs in your app.
                         </div>
                     </div>
                 </div>
