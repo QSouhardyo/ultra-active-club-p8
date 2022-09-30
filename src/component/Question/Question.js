@@ -32,6 +32,12 @@ const Question = () => {
                                 <li>Props are read-only.</li>
                             </ul>
 
+                            <h5>State:</h5>
+                            <ul>
+                                <li>The Data is passed within the component only.</li>
+                                <li>It is Mutable ( can be modified).</li>
+                                <li>State is both read and write.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
