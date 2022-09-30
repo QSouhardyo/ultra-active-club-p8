@@ -1,5 +1,4 @@
 import React from 'react';
-import Question from '../Question/Question';
 import './SingleStudy.css'
 
 const SingleStudy = ({ study, timer, setTimer }) => {
