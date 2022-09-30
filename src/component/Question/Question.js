@@ -25,6 +25,12 @@ const Question = () => {
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
+                            <h5>Props:</h5>
+                            <ul>
+                                <li>The Data is passed from one component to another.</li>
+                                <li>It is Immutable (cannot be modified).</li>
+                                <li>Props are read-only.</li>
+                            </ul>
 
                         </div>
                     </div>
