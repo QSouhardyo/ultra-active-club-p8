@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "",
+        "subject": "Web Development",
+        "describe": "A well-designed website is essential for reaching a larger audience and generating more leads or customers.",
+        "time": 60,
+        "added": true
+    },
+    {
+        "id": 2,
+        "image": "",
+        "subject": "Android ",
+        "describe": "Android app development can assist a business in reaching out to more customers.",
+        "time": 45,
+        "added": false
+    },
+    {
+        "id": 3,
+        "image": "",
+        "subject": "AI",
+        "describe": "Artificial intelligence forms the basis for all computer learning and is the future of all complex decision making. ",
+        "time": 60,
+        "added": false
+    },
+    {
+        "id": 4,
+        "image": "",
+        "subject": "Computer Network",
+        "describe": "Files can easily be shared between users. Network users can communicate by email and instant messenger .",
+        "time": 45,
+        "added": false
+    },
+    {
+        "id": 5,
+        "image": "",
+        "subject": "Data Science",
+        "describe": "Data Science enables companies to efficiently understand gigantic data from multiple sources.",
+        "time": 60,
+        "added": false
+    },
+    {
+        "id": 6,
+        "image": "",
+        "subject": "Machine Learning",
+        "describe": " it gives enterprises a view of trends in customer behavior and business operational patterns.",
+        "time": 40,
+        "added": false
+    }
+]

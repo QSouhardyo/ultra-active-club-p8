@@ -1,0 +1,89 @@
+.main-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    padding-bottom: 80px;
+}
+
+.study-heading {
+    margin-left: 20px;
+}
+
+
+
+.study-cart-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.cart-site {
+    margin-left: 15px;
+}
+
+@media (max-width: 576px) {
+    .header {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .study-heading {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .main-container {
+        grid-template-columns: 1fr;
+    }
+
+    .study-cart-container {
+        grid-template-columns: 1fr;
+    }
+
+    .single-cart {
+        margin: 0 auto;
+        width: 250px;
+        height: 410px;
+    }
+
+    .study-img {
+        width: 230px;
+        height: 150px;
+        border-radius: 10px;
+        text-align: center;
+        margin: 7px;
+    }
+
+    .d-flex {
+        text-align: center;
+        margin-left: 60px;
+        margin-top: 30px;
+    }
+
+    .break-heading {
+        text-align: center;
+    }
+
+    .exercise-heading {
+        text-align: center;
+    }
+
+    .time-count {
+        text-align: center;
+    }
+
+    .btn-container {
+        text-align: center;
+    }
+
+    .my-info {
+        text-align: center;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1200) {
+
+    .single-cart {
+        width: 280px;
+        height: 410px;
+    }
+}
